@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/main.qml</file>
+        <file>ui/TTextBitmap.qml</file>
+        <file>ui/TButton.qml</file>
+        <file>ui/LCDScreen.qml</file>
+        <file>ui/TitleScreen.qml</file>
+        <file>ui/PetSprite.qml</file>
+        <file>ui/FrameButton.qml</file>
+        <file>ui/GameChrome.qml</file>
+        <file>ui/StatusScreen.qml</file>
+        <file>ui/MenuScreen.qml</file>
+        <file>ui/MinigameSpaceShooter.qml</file>
+        <file>ui/GameScreen.qml</file>
+        <file>ui/TProgressBar.qml</file>
+        <file>ui/SettingsScreen.qml</file>
+        <file>ui/TSoundEffect.qml</file>
+        <file>ui/MinigamePauseOverlay.qml</file>
+        <file>ui/MinigameTemplate.qml</file>
+        <file>ui/MinigameSpaceShooter2.qml</file>
+        <file>ui/MinigameHud.qml</file>
+        <file>ui/MainScreen.qml</file>
+        <file>ui/TPetButton.qml</file>
+        <file>ui/TKeyboard.qml</file>
+        <file>ui/TMultitouchButton.qml</file>
+        <file>ui/TMusic.qml</file>
+        <file>ui/FeedMenu.qml</file>
+        <file>ui/ShareDialog.qml</file>
+        <file>ui/ReceiveDialog.qml</file>
+        <file>ui/HelpDialog.qml</file>
+        <file>ui/MinigameJanKenPo.qml</file>
+        <file>ui/MinigameMenu.qml</file>
+    </qresource>
+</RCC>

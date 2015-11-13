@@ -1,0 +1,5 @@
+Fixed hosts for sharing
+--This line, and those below, will be ignored--
+
+M    tamperegotchi/ui/ReceiveDialog.qml
+M    tamperegotchi/ui/ShareDialog.qml

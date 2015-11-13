@@ -1,0 +1,16 @@
+baby pets
+16x16
+
+child pets
+24x24
+
+adult pets
+27x27
+
+
+Pictures
+1-2: normal state
+3-5: sleep state
+6-7: hungry state
+8-9: sick state
+10-11: ashamed state
