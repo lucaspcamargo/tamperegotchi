@@ -5,8 +5,8 @@
 ![Screenshot](https://raw.githubusercontent.com/lucaspcamargo/tamperegotchi/master/Documentation/montage.png)
 
 This is a finland-themed clone of the most popular franchise of virtual pets.
-Basic actions like feeding, cleaning, and playing game swith your pet are implemented. Also sending and receiving perts to a server and sharing it via a code.
-The game is not finished and liely never will be. But it is a great testbed for playing with Qt 5 and QML.
+Basic actions like feeding, cleaning, and playing game swith your pet are implemented. Also sending and receiving pets to a server and sharing it via a code.
+The game is not finished and likely never will be! But it is a great testbed for playing with Qt 5 and QML.
 
 ## License
 
