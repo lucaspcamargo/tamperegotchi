@@ -23,6 +23,6 @@ The game is not finished and likely never will be! But it is a great testbed for
 
 *Developers:* 
 * Lucas Pires Camargo *(main developer)*
+* Ammaar Amin Mufti
 * Joona Kinnunen
-* Ammar Mufti
 * Tintin Cai
